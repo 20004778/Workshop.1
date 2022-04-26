@@ -7,8 +7,10 @@ App under a package com.example.MyApp, with blank Activity.
 ### Step-2:
 Modify the default content of res/layout/activity_main.xml file to display the
 required content and design the layout. 
-### Step-3: Don’t make any changes to MainActivity.java
-### Step-4: Run the code and launch the emulator to display the content in Android. 
+### Step-3:
+Don’t make any changes to MainActivity.java
+### Step-4:
+Run the code and launch the emulator to display the content in Android. 
 
 
 ### MainActivity.java
